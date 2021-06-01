@@ -1,0 +1,3 @@
+[submodule "projects/aimtrainer"]
+	path = projects/aimtrainer
+	url = https://github.com/JonaWe/js-aimtrainer.git
