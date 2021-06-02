@@ -1,3 +1,3 @@
-[submodule "docs/projects_/aimtrainer"]
+[submodule "docs/projects/aimtrainer"]
 	path = docs/projects/aimtrainer
 	url = https://github.com/JonaWe/js-aimtrainer.git
